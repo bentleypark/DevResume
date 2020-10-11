@@ -35,5 +35,5 @@
 
 ## 3. 업무 경험 
 ### 소리를보는통로 (2020.01 ~ 현재 )  
-* Sovoro Tab Edu: 수업 시간에 어려움을 겪는 청각장애인 학생들을 위한 STT(Speech-to-Text) Android App 개발 
-- 주요기능:
+* 소보로 탭 에튜(Sovoro Tab Edu) : 수업 시간에 어려움을 겪는 청각장애인 학생들을 위한 STT(Speech-to-Text) Android App 개발 
+1. 주요기능:
