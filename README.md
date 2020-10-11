@@ -17,4 +17,4 @@
 * Crash Report: Firebase Crashlystics, Senty
 * Kotlin linter: Ktlint   
 * Communication: Slack
-* Project Management: Jira 
+* Project Management: Jira, Github
