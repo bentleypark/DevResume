@@ -10,17 +10,28 @@
 ## 2. 기술 스택 
 ### Langauge
 * Kotlin, Java
-* Build: Gradle, Kotlin-dsl
-* Version Control: Git, Bitbucket
-* App Architecture: MVVM(Model-View-ViewModel), MVP(Model-Veiw-Presenter)
-* Jetpack AAC(Android Architecture Component), DataBinding, ViewBinding
-* Asynchronous Processing: Kotlin Coroutine
-* Library: Retrofit2, Gson, Glide, Exoplayer, Lottie, Timber, Stetho, Leakcanary
-* Crash Report: Firebase Crashlystics, Senty
-* Kotlin linter: Ktlint   
-* Communication: Slack
-* Project Management: Jira, Github
-* Google Speech Text-to-Text
+### Build
+* Gradle, Kotlin-dsl
+### Version Control
+* Git, Bitbucket
+### App Architecture
+* MVVM(Model-View-ViewModel), MVP(Model-Veiw-Presenter)
+### AAC(Android Architecture Component
+* Lifecycles, ViewModel, LiveData, DataBinding, ViewBinding
+### Asynchronous Processing
+* Kotlin Coroutine
+### Extenal Library
+* Retrofit2, Gson, Glide, Exoplayer, Lottie, Timber, Stetho, Leakcanary
+### Crash Report
+* Firebase Crashlystics, Senty
+### Kotlin linter
+* Ktlint   
+### Communication
+* Slack
+### Project Management
+* Jira, Github
+### ETC
+* Google Speech Text-to-Text Engine
 
 ## 3. 업무 경험 
 ### 소리를보는통로 (2020.01 ~ 현재 )  
